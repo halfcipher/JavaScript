@@ -1,2 +1,3 @@
 # JavaScript
-JavaScript programs done during my initial JS learning.
+JavaScript programs and small projects done for learning during my initial JS learning.
+P.S. uploaded after years
